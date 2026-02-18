@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Rose",
+    "price": 15.0,
+    "image": "/images/rose.jpg",
+    "description": "The classic symbol of love and passion; originated in ancient Persia."
+  },
+  {
+    "id": 2,
+    "name": "Daisy",
+    "price": 8.0,
+    "image": "/images/Daisy.jpg",
+    "description": "Symbolizes innocence and purity; their name comes from 'day's eye'."
+  },
+  {
+    "id": 3,
+    "name": "Lotus",
+    "price": 20.0,
+    "image": "/images/Lotus.jpg",
+    "description": "Represents spiritual enlightenment and rebirth; grows beautifully in murky water."
+  },
+  {
+    "id": 4,
+    "name": "Camellia",
+    "price": 18.0,
+    "image": "/images/Camellia.jpg",
+    "description": "Symbolizes adoration and perfection; highly valued in East Asian cultures."
+  },
+  {
+    "id": 5,
+    "name": "Marigold",
+    "price": 7.5,
+    "image": "/images/Marigold.jpg",
+    "description": "Known as the 'herb of the sun'; represents power, strength, and light."
+  },
+  {
+    "id": 6,
+    "name": "Orchid",
+    "price": 25.0,
+    "image": "/images/Orchid.jpg",
+    "description": "A symbol of exotic beauty and luxury; one of the largest plant families."
+  },
+  {
+    "id": 7,
+    "name": "Peony",
+    "price": 22.0,
+    "image": "/images/penoy.jpg",
+    "description": "Represents bashfulness and a happy marriage; often called the 'King of Flowers'."
+  },
+  {
+    "id": 8,
+    "name": "Poppy",
+    "price": 9.0,
+    "image": "/images/Poppy.jpg",
+    "description": "Symbolizes remembrance and peace; known for their vibrant, paper-thin petals."
+  },
+  {
+    "id": 9,
+    "name": "Sunflower",
+    "price": 12.0,
+    "image": "/images/sunflower2.jpg",
+    "description": "Symbolizes loyalty and longevity; famous for following the sun across the sky."
+  },
+  {
+    "id": 10,
+    "name": "Tulip",
+    "price": 11.0,
+    "image": "/images/Tuli2.jpg",
+    "description": "Represents perfect and deep love; famously associated with the Netherlands."
+  },
+  {
+    "id": 11,
+    "name": "Zinnia",
+    "price": 6.5,
+    "image": "/images/Zinnia.jpg",
+    "description": "Symbolizes endurance and daily remembrance; very popular in butterfly gardens."
+  },
+  {
+    "id": 12,
+    "name": "Lavender",
+    "price": 14.0,
+    "image": "/images/Levader.jpg",
+    "description": "Known for its calming scent; represents serenity, grace, and devotion."
+  }
+]
